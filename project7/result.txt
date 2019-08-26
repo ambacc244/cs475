@@ -1,0 +1,3 @@
+not paralleled: 3.193347
+OpenMP parallelism 1 thread: 3.198072
+OpenMP parallelism 4 threads: 3.198072
