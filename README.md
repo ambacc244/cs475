@@ -1,4 +1,4 @@
-# CS475 Parallel Programming
+# CS475 Introduction to Parallel Programming
 
 |Project|
 |:-------------|
